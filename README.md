@@ -11,3 +11,4 @@ This is a repo that was made just to practice the following things:
 - forking a repository and submitting pull requests
 - handling and merging pull requests
 - branching
+- reverting code
